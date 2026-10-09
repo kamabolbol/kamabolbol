@@ -36,7 +36,7 @@
 
 <table>
 <tr>
-<td width="19%" valign="top">
+<td width="22%" valign="top">
 
 <h3 align="center">👤 Profile</h3>
 
@@ -70,7 +70,7 @@
 <p align="center"><i>Code · Secure · Innovate</i></p>
 
 </td>
-<td width="42%" valign="top">
+<td width="78%" valign="top">
 
 <h2>👋 About Me</h2>
 
@@ -110,46 +110,6 @@ class Engineer:
 - 🎯 Building reliable AI systems with security and human oversight.
 - 🔐 Designing secured APIs with **JWT + RBAC** and ISO-oriented governance.
 - 🧠 Applying **constrained decoding** (regex schema) to prevent LLM hallucinations.
-
-</td>
-<td width="39%" valign="top">
-
-<h2>🛡️ Featured Project</h2>
-
-<h3>ArgusSOC V2</h3>
-
-<b>Sovereign AI-Powered SOC Platform</b>
-
-A local-first multi-agent platform for alert triage, investigation,
-contextual enrichment and governed response recommendations.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square" alt="Wazuh" />
-  <img src="https://img.shields.io/badge/Ollama-111827?style=flat-square" alt="Ollama" />
-  <img src="https://img.shields.io/badge/ChromaDB-5B4BDB?style=flat-square" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-- Multi-agent workflow: **Investigator → Critic → SOAR**.
-- RAG-assisted investigation and MITRE ATT&CK knowledge retrieval.
-- Threat-intelligence enrichment: CVE / CVSS / EPSS / KEV.
-- Policy modes: `BLOCK`, `RECOMMEND`, `HUMAN_APPROVAL`, `AUTO`.
-- Local inference, guarded automation and auditable decisions.
-- **Wazuh (SIEM/XDR)** deployment: agents, decoders, rule-based detection, alerting, dashboards.
-- **Syslog / Firewall collector** on UDP 5514 / TCP 5515 parsing pf, iptables/nftables, Cisco ASA/FTD.
-- **Policy Engine** with score bands + guardrails (cooldown, hourly budget, source allowlists).
-- **148 unit tests — 100% pass rate**, full decision traceability & audit trail (SQLite).
-- **Constrained decoding** (regex schema via Ollama) to prevent hallucinated MITRE IDs.
-- **Sovereignty by design**: local LLMs, no mandatory cloud dependency, isolated inter-agent flows.
-
-<p align="center">
-  <a href="https://github.com/kamabolbol/ArgusSOC-V2">
-    <img src="https://img.shields.io/badge/Explore-ArgusSOC%20V2-00D4D8?style=for-the-badge&logo=github&logoColor=white" alt="Explore ArgusSOC V2" />
-  </a>
-</p>
 
 </td>
 </tr>
