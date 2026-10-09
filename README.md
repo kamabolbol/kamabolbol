@@ -17,7 +17,7 @@
 </a>
 
 <p>
-  <a href="mailto:boulbaba.boucheliga@enis.tn">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=boulbaba.boucheliga@enis.tn">
     <img src="https://img.shields.io/badge/Email-Contact-00D4D8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="tel:+21622020774">
@@ -62,7 +62,7 @@
 <p align="center">
   <a href="https://github.com/kamabolbol">GitHub</a><br/>
   <a href="https://www.linkedin.com/in/boulbeba-boucheliga-a82b32264/">LinkedIn</a><br/>
-  <a href="mailto:boulbaba.boucheliga@enis.tn">Email</a><br/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=boulbaba.boucheliga@enis.tn">Email</a><br/>
   <a href="https://github.com/kamabolbol/ArgusSOC-V2">ArgusSOC V2</a>
 </p>
 
@@ -233,7 +233,7 @@ A local-first multi-agent platform for alert triage, investigation, contextual e
 <h3>🔭 Altair Technologies</h3>
 
 <b>Observability for Ray Serve & ROS 2</b><br/>
-<sub>June – August 2026</sub>
+<sub>Internship · June – August 2026</sub>
 
 Observability for AI-serving and robotics workflows, with telemetry and dashboards.
 
@@ -248,7 +248,8 @@ Observability for AI-serving and robotics workflows, with telemetry and dashboar
 
 <h3>🤖 Local AI Assistant for Odoo 18</h3>
 
-<b>Alfa Computers · 2026</b>
+<b>Alfa Computers</b><br/>
+<sub>Internship · 2026</sub>
 
 Local-first AI assistant concept combining LLM inference, RAG and a secured API gateway.
 
@@ -464,7 +465,7 @@ Python, Bash, Java, JavaScript, SQL, YAML, regex-constrained LLM outputs, Ansibl
 
 ### *Engineering a safer digital future.*
 
-<a href="mailto:boulbaba.boucheliga@enis.tn">Email</a> ·
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=boulbaba.boucheliga@enis.tn">Email</a> ·
 <a href="https://www.linkedin.com/in/boulbeba-boucheliga-a82b32264/">LinkedIn</a> ·
 <a href="https://github.com/kamabolbol">GitHub</a>
 
