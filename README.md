@@ -1,184 +1,289 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    BOULBABA BOUCHELIGA — README                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<a href="https://github.com/kamabolbol">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:06111f,50:063b56,100:00d4d8&text=Boulbaba%20BOUCHELIGA&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=AI%20ENGINEERING%20%7C%20CYBERSECURITY%20%7C%20SOVEREIGN%20AI&descAlignY=59&descSize=16" width="100%" alt="Boulbaba Bouchel iga — AI Engineering and Cybersecurity banner"/>
-</a>
+<table>
+<tr>
 
-<a href="https://github.com/kamabolbol">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=00D4D8&center=true&vCenter=true&width=750&lines=Building+intelligent+systems.;Engineering+secure+and+sovereign+AI.;From+security+signals+to+actionable+insights." alt="Animated introduction"/>
-</a>
+<!-- ══════════════ COLONNE GAUCHE — CARTE PROFIL ══════════════ -->
+<td width="30%" valign="top" align="center">
 
-<p>
-  <a href="mailto:boulbaba.boucheliga@enis.tn"><img src="https://img.shields.io/badge/Email-Contact-00D4D8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/boulbeba-bouchelliga/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/kamabolbol"><img src="https://img.shields.io/badge/GitHub-Portfolio-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+<br/>
 
-**AI Engineering · Cybersecurity · SOC Automation · Sovereign AI**
+<img src="https://github.com/kamabolbol.png" width="150" alt="Boulbaba Boucheliga"/>
+
+### Boulbaba BOUCHELIGA
+
+**AI Engineer · Cybersecurity · SOC**
+
+<br/>
+
+![Available for opportunities](https://img.shields.io/badge/●%20Available%20for%20opportunities-00D4D8?style=for-the-badge&labelColor=06111F)
+
+<br/>
+
+![Followers](https://img.shields.io/github/followers/kamabolbol?label=followers&style=social)
+![Following](https://img.shields.io/badge/following-1-00D4D8?style=social)
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-boulbeba--bouchelliga-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boulbeba-bouchelliga/)
+<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-kamabolbol-171717?style=flat-square&logo=github&logoColor=white)](https://github.com/kamabolbol)
+
+---
+
+**⚡ Quick Links**
+
+[🐙 GitHub](https://github.com/kamabolbol) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/boulbeba-bouchelliga/) &nbsp;·&nbsp; [📧 Email](mailto:boulbaba.boucheliga@enis.tn)
+
+---
+
+> *« Build intelligent systems.*  
+> *Secure infrastructure. »*
+
+<br/>
+
+</td>
+
+<!-- ══════════════ COLONNE DROITE — BANNIÈRE + CONTACT ══════════════ -->
+<td width="70%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:06111f,50:063b56,100:00d4d8&text=Boulbaba%20BOUCHELIGA&fontColor=ffffff&fontSize=38&fontAlignY=40&desc=Ing%C3%A9nieur%20IT%20%26%20Cybers%C3%A9curit%C3%A9%20%E2%80%94%20SOC%20L1%2FL2%2C%20SIEM%2C%20Cloud%20%26%20Agents%20IA%20souverains&descAlignY=62&descSize=14" width="100%" alt="Banner"/>
+
+<br/>
+
+📧 [boulbaba.boucheliga@enis.tn](mailto:boulbaba.boucheliga@enis.tn) &nbsp;•&nbsp; 📱 +216 22 020 774 &nbsp;•&nbsp; 💼 [linkedin.com/in/boulbeba-bouchelliga](https://www.linkedin.com/in/boulbeba-bouchelliga/) &nbsp;•&nbsp; 🐙 [github.com/kamabolbol](https://github.com/kamabolbol)
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ABOUT ME   |   FEATURED PROJECT              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-```python
-class Engineer:
-    def __init__(self):
-        self.name = "Boulbaba BOUCHELIGA"
-        self.education = "Computer Engineering — ENIS Sfax"
-        self.specialization = ["Artificial Intelligence", "Cybersecurity"]
-        self.focus = [
-            "Multi-Agent Systems",
-            "LLMs & RAG",
-            "SOC Automation",
-            "SIEM / XDR",
-            "MLOps",
-        ]
-        self.main_project = "ArgusSOC"
-        self.motto = "Build intelligent systems. Secure infrastructure."
-```
+<table>
+<tr>
 
-I'm a **third-year Computer Engineering student at ENIS Sfax, Tunisia**, specializing in Artificial Intelligence, with a strong interest in cybersecurity, security operations, and reliable backend systems.
+<td width="50%" valign="top">
 
-I design practical systems at the intersection of **AI engineering and cybersecurity**: local-first LLM applications, retrieval-augmented generation (RAG), multi-agent workflows, security-event analysis, and observable data pipelines.
+## 🔵 About Me
 
-- 🔭 Developing **ArgusSOC**, a sovereign multi-agent AI SOC platform.
-- 🛡️ Exploring security monitoring, SIEM engineering, threat intelligence and SOAR governance.
-- 🤖 Building local AI applications with Ollama, RAG and vector databases.
-- ⚙️ Interested in backend engineering, automation and cloud-native architectures.
-- 🎯 Goal: engineer reliable AI systems that combine intelligence, security and human oversight.
+Étudiant en **3ᵉ année d'ingénierie informatique à l'ENIS Sfax** (parcours IA), spécialisé en sécurité des systèmes d'information, opérations **SOC (L1/L2)**, ingénierie **SIEM** et environnements **cloud hybrides**. Concepteur d'**ArgusSOC**, une plateforme SOC souveraine à base d'agents IA gouvernés, intégrant Wazuh (SIEM/XDR), enrichissement CVE / CVSS / EPSS / KEV, Policy Engine et traçabilité complète.
 
-> *Build intelligent systems. Secure infrastructure.*
+Rigoureux, autonome, orienté résultats et **souveraineté technologique**.
 
-## 🛡️ Featured Project — ArgusSOC V2
+<br/>
 
-<div align="center">
+![AI](https://img.shields.io/badge/AI-00D4D8?style=flat-square&labelColor=06111F)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00D4D8?style=flat-square&labelColor=06111F)
+![SOC](https://img.shields.io/badge/SOC-00D4D8?style=flat-square&labelColor=06111F)
+![SIEM](https://img.shields.io/badge/SIEM-00D4D8?style=flat-square&labelColor=06111F)
+![Cloud](https://img.shields.io/badge/Cloud-00D4D8?style=flat-square&labelColor=06111F)
+![LLMs](https://img.shields.io/badge/LLMs-00D4D8?style=flat-square&labelColor=06111F)
+![RAG](https://img.shields.io/badge/RAG-00D4D8?style=flat-square&labelColor=06111F)
+![Python](https://img.shields.io/badge/Python-00D4D8?style=flat-square&labelColor=06111F)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛡️ Featured Project
 
 ### ◈ ArgusSOC
-**Sovereign AI-Powered Security Operations Center Assistant**
+**Sovereign AI-Powered SOC Platform**
 
-An experimental, local-first SOC assistant designed to support alert triage, investigation, evidence retrieval, and governed response recommendations.
+Plateforme SOC multi-agents avec Wazuh, enrichissement Threat Intelligence, Policy Engine et traçabilité complète.
 
-<a href="https://github.com/kamabolbol/ArgusSOC-V2"><img src="https://img.shields.io/badge/Explore-ArgusSOC%20V2-00D4D8?style=for-the-badge&logo=github&logoColor=white" alt="Explore ArgusSOC V2"/></a>
+<br/>
 
-</div>
+![Python](https://img.shields.io/badge/Python-00D4D8?style=flat-square&labelColor=06111F)
+![FastAPI](https://img.shields.io/badge/FastAPI-00D4D8?style=flat-square&labelColor=06111F)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-20232A?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6741D9?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-| Layer | Role |
-|---|---|
-| **Ingestion** | Collects security events from supported sources and syslog workflows. |
-| **Investigation** | Uses RAG and contextual evidence to support alert analysis. |
-| **Critic & policy** | Adds review and policy gates before response decisions. |
-| **SOAR governance** | Supports `BLOCK`, `RECOMMEND`, `HUMAN_APPROVAL`, and `AUTO` decision paths. |
-| **Memory & audit** | Separates event history from admitted vector memory and preserves traceability. |
+<br/><br/>
 
-**Core technologies:** Python · FastAPI · Streamlit · Ollama · ChromaDB · SQLite · Wazuh · Docker
+[![View Project](https://img.shields.io/badge/View%20Project%20→-00D4D8?style=for-the-badge&labelColor=06111F)](https://github.com/kamabolbol/ArgusSOC-V2)
 
-**Engineering priorities:** local inference, evidence-grounded analysis, human approval for sensitive actions, dry-run safety, and auditable decisions.
+</td>
 
-### Key capabilities
+</tr>
+</table>
 
-- Multi-agent pipeline: **Investigator → Critic → SOAR**.
-- RAG-based security investigation and MITRE ATT&CK knowledge retrieval.
-- CVE / CVSS / EPSS / KEV threat intelligence enrichment.
-- Policy Engine with `BLOCK`, `RECOMMEND`, `HUMAN_APPROVAL` and `AUTO` modes.
-- Auditable decisions, guarded automation and local LLM inference.
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          TECH STACK                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🧰 Tech Stack
 
-<div align="center">
+<table>
+<tr>
 
-### Artificial Intelligence · Machine Learning · RAG
+<td width="25%" valign="top" align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="Python, PyTorch and TensorFlow"/>
+**🧠 AI & ML**
 
-<img src="https://img.shields.io/badge/LLMs-Ollama-20232A?style=flat-square" alt="LLMs"/> 
-<img src="https://img.shields.io/badge/RAG-ChromaDB-20232A?style=flat-square" alt="RAG and ChromaDB"/> 
-<img src="https://img.shields.io/badge/Agents-LangChain-20232A?style=flat-square" alt="AI agents"/> 
-<img src="https://img.shields.io/badge/Explainability-SHAP-20232A?style=flat-square" alt="SHAP"/>
+<br/>
 
-### Cybersecurity · SOC · Systems
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=linux,docker,bash,ansible&theme=dark" alt="Linux, Docker, Bash and Ansible"/>
+<br/>
 
-<img src="https://img.shields.io/badge/SIEM-Wazuh-005571?style=flat-square" alt="Wazuh SIEM"/> 
-<img src="https://img.shields.io/badge/Network%20Analysis-Wireshark-1679A7?style=flat-square" alt="Wireshark"/> 
-<img src="https://img.shields.io/badge/Testing-Kali%20Linux-557C94?style=flat-square" alt="Kali Linux"/> 
-<img src="https://img.shields.io/badge/Threat%20Intel-CVE%20%7C%20CVSS%20%7C%20EPSS-005571?style=flat-square" alt="Threat intelligence"/>
+![Ollama](https://img.shields.io/badge/Ollama-20232A?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6741D9?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6741D9?style=flat-square)
 
-### Backend · Data · DevOps
+</td>
 
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite,kafka,docker,git,githubactions,prometheus,grafana&theme=dark" alt="FastAPI, PostgreSQL, SQLite, Kafka, Docker, GitHub Actions, Prometheus and Grafana"/>
+<td width="25%" valign="top" align="center">
 
-</div>
+**🛡️ Cybersecurity & Systems**
 
-## 🚀 Selected Work
+<br/>
 
-<details>
-  <summary><strong>AI fraud detection and streaming analytics</strong></summary>
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,docker&theme=dark" />
 
-  Machine-learning workflows for fraud detection, model explainability, and data processing, with a backend API and monitoring-oriented tooling.
+<br/>
 
-  **Technologies:** Python, scikit-learn, SHAP, FastAPI, Kafka, Spark Structured Streaming, PostgreSQL, Prometheus, Grafana, MLflow, Airflow.
-</details>
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square)
 
-<details>
-  <summary><strong>Local AI assistant for Odoo 18</strong></summary>
+</td>
 
-  A local-first assistant concept combining an LLM, retrieval-augmented generation, and a secured FastAPI gateway, designed to keep inference and application integration under control.
+<td width="25%" valign="top" align="center">
 
-  **Technologies:** Ollama, RAG, FastAPI, Docker Compose, PostgreSQL.
-</details>
+**⚙️ Backend & Data**
 
-<details>
-  <summary><strong>Ray Serve and ROS 2 observability — Altair Technologies</strong></summary>
+<br/>
 
-  Internship work focused on observability for AI serving and robotics workflows, using telemetry and dashboards to improve system visibility.
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite,kafka&theme=dark" />
 
-  **Technologies:** Ray Serve, ROS 2, OpenTelemetry, Prometheus, Loki, Tempo, Grafana.
-</details>
+<br/>
 
-<details>
-  <summary><strong>Home SOC and security network lab</strong></summary>
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
-  A hands-on lab for understanding network traffic, service exposure, security monitoring, and event collection with defensive tooling.
+</td>
 
-  **Technologies:** Wazuh, Kali Linux, Nmap, Wireshark, Linux, Syslog.
-</details>
+<td width="25%" valign="top" align="center">
 
-## 🎓 Education & Certifications
+**🔧 Tools & DevOps**
 
-- **ENIS Sfax** — Computer Engineering, Artificial Intelligence track · 2024–present
-- **IPEIS Sfax** — Preparatory program in Mathematics and Physics · 2022–2024
-- **IBM AI Engineering Professional Certificate** — Coursera · 2026
+<br/>
 
-## 📊 GitHub Analytics
+<img src="https://skillicons.dev/icons?i=ansible,docker,git,vscode&theme=dark" />
 
-<div align="center">
+<br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kamabolbol&show_icons=true&hide_border=true&bg_color=06111F&title_color=00D4D8&icon_color=00D4D8&text_color=E6F1FF&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamabolbol&layout=compact&hide_border=true&bg_color=06111F&title_color=00D4D8&text_color=E6F1FF" alt="Most-used languages"/>
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-<img src="https://streak-stats.demolab.com?user=kamabolbol&hide_border=true&background=06111F&ring=00D4D8&fire=00D4D8&currStreakLabel=E6F1FF&sideLabels=E6F1FF&dates=8BA3B8" alt="GitHub contribution streak"/>
+</td>
 
-</div>
-
-## 🌐 Beyond the Code
-
-- **Interests:** sovereign AI, AI agents, threat intelligence, security automation, cloud-native systems, MLOps, and data engineering.
-- **Languages:** Arabic (native), French (fluent), English (B2+).
+</tr>
+</table>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--            EDUCATION   |   GITHUB STATS   |   CERTS             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+
+<td width="34%" valign="top">
+
+## 🎓 Education
+
+🎓 **ENIS Sfax**  
+Computer Engineering — AI Track (3rd year)  
+`2024 — Present`
+
+🎓 **IPEIS Sfax**  
+Preparatory Program (Math & Physics)  
+`2022 — 2024`
+
+🎓 **Baccalauréat**  
+Mathematics — Mention Très Bien (15.45/20)  
+`2021`
+
+</td>
+
+<td width="38%" valign="top" align="center">
+
+## 📊 GitHub Stats
+
+![Total Repos](https://img.shields.io/badge/Repositories-13-00D4D8?style=for-the-badge&labelColor=06111F)
+![Total Stars](https://img.shields.io/badge/Stars-1-00D4D8?style=for-the-badge&labelColor=06111F)
+![Contributions](https://img.shields.io/badge/Contributions-40-00D4D8?style=for-the-badge&labelColor=06111F)
+
+<br/>
+
+<img height="130" src="https://github-readme-stats.vercel.app/api?username=kamabolbol&show_icons=true&hide_border=true&bg_color=06111F&title_color=00D4D8&icon_color=00D4D8&text_color=E6F1FF&rank_icon=github" />
+
+<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamabolbol&layout=compact&hide_border=true&bg_color=06111F&title_color=00D4D8&text_color=E6F1FF" />
+
+</td>
+
+<td width="28%" valign="top">
+
+## 🏅 Certifications & Interests
+
+**IBM AI Engineering Professional Certificate**  
+Coursera · 2026
+
+<br/>
+
+**🎯 Interests**
+
+- 🔐 Cybersecurity & SOC Automation
+- 🤖 AI Agents & RAG
+- ☁️ Cloud-Native Systems
+- ⚙️ MLOps & Data Engineering
+- ♟️ Chess
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                            FOOTER                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-**Interested in AI engineering, cybersecurity, or collaborative projects?**
+**Intéressé par l'AI engineering, la cybersécurité ou un projet collaboratif ?**
 
-<a href="mailto:boulbaba.boucheliga@enis.tn">Let's connect</a> ·
-<a href="https://www.linkedin.com/in/boulbeba-bouchelliga/">LinkedIn</a> ·
-<a href="https://github.com/kamabolbol">GitHub</a>
+[📧 Email](mailto:boulbaba.boucheliga@enis.tn) · [💼 LinkedIn](https://www.linkedin.com/in/boulbeba-bouchelliga/) · [🐙 GitHub](https://github.com/kamabolbol)
 
-*Building intelligent systems. Securing infrastructure. Engineering sovereign AI.*
+<br/>
+
+### *Building intelligent systems. Securing infrastructure. Engineering sovereign AI.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:00D4D8,100:06111f" width="100%" alt="Footer"/>
 
