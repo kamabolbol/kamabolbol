@@ -1,180 +1,135 @@
-<div align="center">
+ <div align="center">
 
-Boulbaba BOUCHELIGA
-AI Engineer | Cybersecurity & SOC Engineering
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c9a7&height=200&section=header&text=Boulbaba%20BOUCHELIGA&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineering%20%7C%20Cybersecurity%20%7C%20SOC&descAlignY=58&descSize=17" width="100%" />
 
-Multi-Agent AI · LLMs & RAG · SIEM/XDR · MLOps · Sovereign AI
+<a href="https://github.com/kamabolbol">
+  <img src="https://komarev.com/ghpvc/?username=kamabolbol&label=PROFILE%20VIEWS&color=00c9a7&style=flat-square" />
+</a>
 
-Computer Engineering Student at ENIS Sfax, Tunisia
-
-
-
-
-
+<a href="https://github.com/kamabolbol?tab=followers">
+  <img src="https://img.shields.io/github/followers/kamabolbol?label=Followers&style=social" />
+</a>
 
 </div>
 
-👨‍💻 About Me
+<h2 align="center">⚡ AI Engineer & Cybersecurity Enthusiast</h2>
 
-I'm a third-year Computer Engineering student at the National Engineering School of Sfax (ENIS), Tunisia, specializing in Artificial Intelligence.
+<p align="center">
+  <a href="https://github.com/kamabolbol">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Building+ArgusSOC+%F0%9F%9B%A1%EF%B8%8F;Multi-Agent+AI+%7C+LLMs+%7C+RAG;SOC+L1%2FL2+%7C+SIEM%2FXDR+%7C+SOAR;Local+LLMs+%7C+MLOps+%7C+Secure+APIs" />
+  </a>
+</p>
 
-My interests lie at the intersection of Artificial Intelligence, Cybersecurity, and Software Engineering. I design and develop end-to-end systems combining multi-agent architectures, local LLMs, retrieval-augmented generation, security monitoring, and automated workflows.
+---
 
-My main engineering project is ArgusSOC, a sovereign AI-assisted Security Operations Center platform designed to support SOC L1/L2 workflows through governed AI agents, SIEM integration, threat intelligence enrichment, and auditable response recommendations.
+## 👨‍💻 About Me
 
-🛡️ Cybersecurity: SOC operations, SIEM/XDR, security monitoring, threat investigation, and MITRE ATT&CK.
-🤖 AI Engineering: LLMs, multi-agent systems, RAG, constrained generation, and local inference.
-📊 Machine Learning: Anomaly detection, explainable AI, computer vision, and predictive analytics.
-⚙️ MLOps & Data Engineering: MLflow, Airflow, Kafka, Spark, monitoring, and CI/CD.
-🔐 Sovereign AI: Locally deployed models, controlled agent execution, and reduced dependence on external cloud services.
-🚀 Featured Project
-🛡️ ArgusSOC V2 — Sovereign Multi-Agent AI SOC
+```python
+class Engineer:
+    def __init__(self):
+        self.name = "Boulbaba Bouchel iga".replace(" ", " ")
+        self.education = "Computer Engineering — ENIS Sfax"
+        self.specialization = ["Artificial Intelligence", "Cybersecurity"]
+        self.focus = [
+            "Multi-Agent Systems",
+            "LLMs & RAG",
+            "SOC Automation",
+            "SIEM / XDR",
+            "MLOps"
+        ]
+        self.main_project = "ArgusSOC"
+        self.motto = "Build intelligent systems. Secure infrastructure."
+```
 
-An AI-assisted Security Operations Center platform designed to support alert triage, investigation, contextual enrichment, and governed incident response.
+* 🔭 Developing **ArgusSOC**, a sovereign multi-agent AI SOC platform.
+* 🛡️ Exploring security monitoring, SIEM engineering, threat intelligence and SOAR governance.
+* 🤖 Building local AI applications with Ollama, RAG and vector databases.
+* ⚙️ Interested in backend engineering, automation and cloud-native architectures.
+* 🎯 Goal: engineer reliable AI systems that combine intelligence, security and human oversight.
 
-Architecture
-
-Security Events → SIEM → Investigator → Critic → Policy Engine → SOAR Governance → Audit Trail
-
-Key engineering components
-
-Multi-agent investigation: Investigator, Critic, and SOAR components for security analysis and response workflows.
-SIEM/XDR integration: Wazuh integration, event ingestion, log decoding, detection rules, and alerting.
-Threat intelligence: CVE, CVSS, EPSS, and KEV enrichment.
-RAG: ChromaDB and security knowledge bases, including MITRE ATT&CK playbooks.
-Policy Engine: BLOCK, RECOMMEND, HUMAN_APPROVAL, and AUTO decision modes.
-Governance: Source allowlists, cooldowns, hourly action budgets, non-destructive response policies, and auditability.
-Local AI: Ollama-based inference with constrained output generation to reduce invalid MITRE ATT&CK identifiers.
-Backend and storage: FastAPI, SQLite, and modular Python components.
-
-Technology stack
-
-
-
-
-
-
-
-
-
-
-
-🔗 Explore my repositories
-
-🧠 AI Engineering & Machine Learning
-
-LLMs & AI Agents
-
-Ollama and local language model deployment.
-Multi-agent orchestration and prompt engineering.
-LangChain, LlamaIndex, and structured LLM outputs.
-Constrained generation and validation.
-
-Retrieval-Augmented Generation
-
-ChromaDB and vector search.
-Embeddings, document chunking, and retrieval strategies.
-Knowledge-grounded generation and security knowledge bases.
-
-Machine Learning & Deep Learning
-
-Scikit-learn, XGBoost, Random Forest, and Isolation Forest.
-Anomaly detection and predictive modeling.
-SHAP explainability and business-rule integration.
-TensorFlow, PyTorch, CNNs, OpenCV, and computer vision.
-
-MLOps & Data Engineering
-
-MLflow and Airflow.
-Kafka and Spark Structured Streaming.
-PostgreSQL, Prometheus, and Grafana.
-Docker and GitHub Actions CI/CD.
-🛡️ Cybersecurity & Infrastructure
-
-SOC Operations & SIEM/XDR
-
-SOC L1 alert triage and SOC L2 investigation workflows.
-Wazuh agents, decoders, rules, alerting, and dashboards.
-Syslog collection and firewall log parsing.
-MITRE ATT&CK mapping and incident traceability.
-
-Security Assessment & Network Analysis
-
-Kali Linux, Nmap, Wireshark, Burp Suite, and Metasploit.
-Hydra, John the Ripper, Gobuster, and Nikto.
-Reconnaissance, enumeration, and vulnerability validation in authorized lab environments.
-
-Security Engineering & Automation
-
-FastAPI, JWT authentication, and role-based access control (RBAC).
-Linux administration, systemd, and firewall configuration.
-Ansible, Docker Compose, and automated deployment.
-Audit logging, controlled execution, and response governance.
-💼 Selected Engineering Experiences
-Enterprise AI Fraud Detection Platform — FinTech
-
-2026
-
-Developed a fraud detection platform combining machine learning, explainable AI, and real-time processing.
-Built secure FastAPI services with JWT authentication and RBAC.
-Designed batch and streaming pipelines using Kafka and Spark Structured Streaming.
-Integrated PostgreSQL, MLflow, Prometheus, Grafana, Airflow, and GitHub Actions.
-Applied SHAP explainability and business rules to improve decision transparency.
-AI Assistant for Odoo 18 — Alfa Computers
-
-2026
-
-Designed a locally deployable AI assistant for chat, RAG, and content generation.
-Built a secure FastAPI gateway with Prompt Engine, Model Router, and Audit Logger.
-Containerized the application stack using Docker Compose.
-Observability for Ray Serve & ROS 2 — Altair Technologies
-
-June–August 2026
-
-Implemented an observability stack using Prometheus, Loki, Tempo, and Grafana.
-Configured structured JSON logs and OpenTelemetry trace ID propagation.
-Validated autonomous navigation over 12.63 metres with 45 unit tests reported as passing.
-🧪 Other Selected Projects
-Home SOC Lab: Wazuh, Kali Linux, custom detection rules, and incident investigation workflows.
-AI Workflow Automation: LLM-based automation with LangChain and RAG using LlamaIndex.
-Distributed Big Data Platform: Hadoop, HDFS, Docker, and Docker Compose.
-Photovoltaic Project Prediction: Machine learning for completion-time estimation and project risk analysis.
-AI Invoice Extraction: Python, OCR, and Tkinter.
-Smart Irrigation IoT: MQTT, Node-RED, InfluxDB, Grafana, and Wokwi.
-Computer Vision: CNN-based classification and object detection with OpenCV and MobileNetSSD.
-🎓 Education & Certification
-
-National Engineering School of Sfax (ENIS)
-Computer Engineering — Artificial Intelligence Track
-2024–Present
-
-Relevant coursework: Machine Learning, Deep Learning, Computer Vision, NLP, Network Security, Big Data, Cloud Computing, and DevOps.
-
-IBM AI Engineering Professional Certificate — Coursera
-2026
-
-Machine Learning, Deep Learning, CNNs, Transformers, LLMs, and AI application development.
-
-🌍 Languages
-Arabic — Native
-French — Fluent
-English — Professional (B2+)
-📊 GitHub Activity
+## 🛡️ Featured Project
 
 <div align="center">
 
-
-
-
-
-
+<a href="https://github.com/kamabolbol/ArgusSOC-V2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamabolbol&repo=ArgusSOC-V2&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
+**ArgusSOC V2 — Sovereign AI-Powered SOC**
+
+`Python` · `FastAPI` · `Wazuh` · `Ollama` · `ChromaDB` · `SQLite` · `Docker`
+
+* Multi-agent pipeline: Investigator → Critic → SOAR.
+* RAG-based security investigation and MITRE ATT&CK knowledge retrieval.
+* CVE / CVSS / EPSS / KEV threat intelligence enrichment.
+* Policy Engine with `BLOCK`, `RECOMMEND`, `HUMAN_APPROVAL` and `AUTO` modes.
+* Auditable decisions, guarded automation and local LLM inference.
+
+## 🧰 Tech Stack
+
+### Artificial Intelligence & Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+  <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Vector%20Search-6741D9?style=for-the-badge" />
+</p>
+
+### Cybersecurity & Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,bash,git&theme=dark" />
+  <img src="https://img.shields.io/badge/Wazuh-SIEM%2FXDR-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge" />
+</p>
+
+### Backend, Data & MLOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite,kafka,githubactions&theme=dark" />
+  <img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-Observability-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-Building intelligent systems. Securing infrastructure. Engineering sovereign AI.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamabolbol&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-GitHub · LinkedIn
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamabolbol&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamabolbol&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 💼 Experience & Certifications
+
+* **Altair Technologies — 2026:** Observability for Ray Serve and ROS 2.
+* **AI Assistant for Odoo 18:** Local AI, RAG and secure FastAPI gateway.
+* **AI Fraud Detection:** ML, explainability, streaming and MLOps.
+* **IBM AI Engineering Professional Certificate — 2026.**
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/boulbeba-bouchelliga/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:boulbaba.boucheliga@enis.tn">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/kamabolbol">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+
+### *Building intelligent systems. Securing infrastructure. Engineering sovereign AI.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
 
 </div>
