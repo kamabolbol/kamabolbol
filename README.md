@@ -229,9 +229,9 @@ contextual enrichment and governed response recommendations.
 
 ## 💼 Experience
 
-<h3>🛡️ ArgusSOC V2</h3>
+<h3>🛡️ ArgusSOC V2 — Gérance Informatique</h3>
 
-<b>Sovereign AI-Powered SOC Platform · Personal Research Project · 2026</b>
+<b>Sovereign AI-Powered SOC Platform · Internship · 2026</b>
 
 A local-first multi-agent platform for alert triage, investigation, contextual enrichment and governed response recommendations.
 
