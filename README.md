@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <a href="https://github.com/kamabolbol">
@@ -22,7 +23,7 @@
   <a href="tel:+21622020774">
     <img src="https://img.shields.io/badge/Phone-%2B216%2022%20020%20774-00D4D8?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
-  <a href="https://www.linkedin.com/in/boulbeba-bouchelliga/">
+  <a href="https://www.linkedin.com/in/boulbeba-boucheliga-a82b32264/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/kamabolbol">
@@ -60,7 +61,7 @@
 
 <p align="center">
   <a href="https://github.com/kamabolbol">GitHub</a><br/>
-  <a href="https://www.linkedin.com/in/boulbeba-bouchelliga/">LinkedIn</a><br/>
+  <a href="https://www.linkedin.com/in/boulbeba-boucheliga-a82b32264/">LinkedIn</a><br/>
   <a href="mailto:boulbaba.boucheliga@enis.tn">Email</a><br/>
   <a href="https://github.com/kamabolbol/ArgusSOC-V2">ArgusSOC V2</a>
 </p>
@@ -464,7 +465,7 @@ Python, Bash, Java, JavaScript, SQL, YAML, regex-constrained LLM outputs, Ansibl
 ### *Engineering a safer digital future.*
 
 <a href="mailto:boulbaba.boucheliga@enis.tn">Email</a> ·
-<a href="https://www.linkedin.com/in/boulbeba-bouchelliga/">LinkedIn</a> ·
+<a href="https://www.linkedin.com/in/boulbeba-boucheliga-a82b32264/">LinkedIn</a> ·
 <a href="https://github.com/kamabolbol">GitHub</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:00D4D8,100:06111f" width="100%" alt="Navy and cyan footer" />
